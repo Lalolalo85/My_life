@@ -1,0 +1,11 @@
+#img{
+  transform: rotate(90deg); /* Equal to rotateZ(90deg) */
+}
+h1 {
+  color: Navy;
+  text-align: center;
+}
+
+p{
+  font-family: 'Felipa';font-size: 22px;
+}
