@@ -6,6 +6,12 @@ h1 {
   text-align: center;
 }
 
-p{
+p {
   font-family: 'Felipa';font-size: 22px;
+}
+.html {
+  color: Red;
+}
+.Holacode {
+  color: Red;
 }
